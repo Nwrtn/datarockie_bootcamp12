@@ -1,6 +1,6 @@
 # My projects from DataRockie Bootcamp 12
 
-## Technologies that I use
+## Tools and concepts that I have learned.
 
 * Google Sheets
 * SQL
