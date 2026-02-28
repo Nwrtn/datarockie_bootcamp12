@@ -6,6 +6,7 @@
 * SQL
 * R
 * Python
+* Google Looker Studio
 * Essential Statistics
 * Essential Machine Learning
 
